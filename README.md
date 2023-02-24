@@ -1,3 +1,3 @@
 # List of Links
-## -Group Theory:
-### -Midterm: 
+## Group Theory:
+### Midterm: 
