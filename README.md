@@ -1,8 +1,8 @@
 # List of Links
 <details>
 <summary> <h2>MAT 2143 Group Theory</h2> </summary>
-<h3>Midterm Summary: </h3>  
-https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf
+<h3><a href="https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf" target="_blank">Midterm Summary</a></h3>  
+    
 <details>
 <summary> <h3>Quiz Summaries </h3> </summary>
 <ol>
