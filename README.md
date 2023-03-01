@@ -19,7 +19,6 @@ https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%2
 </ol>
 </details>
 </details>
-<br>
 
 <details>
 <summary> <h2>MAT2375 Statistics </h2> </summary>
@@ -29,7 +28,6 @@ https://mohamad-kassas.github.io/Summaries/MAT%202375%20Statistics/Statistics%20
 https://mohamad-kassas.github.io/Summaries/MAT%202375%20Statistics/Statistics%20Midterm%20Cheat%20Sheet.pdf
 </details>
 
-<br>
 
 <details>
 <summary> <h2>CSI 2101 Discrete Structures </h2> </summary>
