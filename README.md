@@ -1,10 +1,10 @@
 # List of Links
 <details>
 <summary> <h2>MAT 2143 Group Theory:</h2> </summary>
-<h3>Midterm Summary </h3>  
+<h3>Midterm Summary: </h3>  
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf
 <details>
-<summary> <h3>Quizzes </h3> </summary>
+<summary> <h3>Quiz Summaries </h3> </summary>
 <ol>
 <li> <h5> Quiz 1 Summary: </h5> </li>
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%201%20Summary.pdf
