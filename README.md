@@ -1,6 +1,6 @@
 # List of Links
 <details>
-<summary> ## MAT 2143 Group Theory: </summary>
+  <summary> <h3> MAT 2143 Group Theory: </h3> </summary>
 ### Midterm Summary: 
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf
 ### Quizzes:
