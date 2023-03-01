@@ -1,5 +1,5 @@
 # List of Links
-## Group Theory:
+## MAT 2143 Group Theory:
 ### Midterm Summary: 
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf
 ### Quizzes:
@@ -16,8 +16,14 @@ https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%2
 
 <br>
 
-## Statistics:
+## MAT2375 Statistics:
 ### Midterm Summary: 
 https://mohamad-kassas.github.io/Summaries/MAT%202375%20Statistics/Statistics%20Midterm%20Summary.pdf
 ### Mitderm Cheat Sheet: 
 https://mohamad-kassas.github.io/Summaries/MAT%202375%20Statistics/Statistics%20Midterm%20Cheat%20Sheet.pdf
+
+<br>
+
+## CSI 2101 Discrete Structures:
+### Midterm Summary:
+https://mohamad-kassas.github.io/Summaries/CSI%202101%20Discrete%20Structures/Discrete%20Structures%20Midterm%20Summary.pdf
