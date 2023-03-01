@@ -1,5 +1,6 @@
 # List of Links
-## MAT 2143 Group Theory:
+<details>
+<summary> ## MAT 2143 Group Theory: </summary>
 ### Midterm Summary: 
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Group%20Theory%20Midterm%20Summary.pdf
 ### Quizzes:
@@ -13,7 +14,7 @@ https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%2
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%204%20Summary.pdf
 #### Quiz 5 Summary: 
 https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%205%20Summary.pdf
-
+</details>
 <br>
 
 ## MAT2375 Statistics:
