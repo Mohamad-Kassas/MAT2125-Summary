@@ -15,6 +15,8 @@
 <li> <h5><a href="https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%204%20Summary.pdf" target="_blank">Quiz 4 Summary</a></h5> </li>
 
 <li> <h5><a href="https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%205%20Summary.pdf" target="_blank">Quiz 5 Summary</a></h5> </li>
+
+<li> <h5><a href="https://mohamad-kassas.github.io/Summaries/MAT%202143%20Group%20Theory/Quizzes%20Summaries/Group%20Theory%20Quiz%206%20Summary.pdf" target="_blank">Quiz 6 Summary</a></h5> </li>
 </ol>
 </details>
 </details>
