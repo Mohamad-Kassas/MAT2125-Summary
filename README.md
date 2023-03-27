@@ -30,5 +30,12 @@
 
 <details>
 <summary> <h2>CSI 2101 Discrete Structures </h2> </summary>
-<h3><a href="https://mohamad-kassas.github.io/Summaries/CSI%202101%20Discrete%20Structures/Discrete%20Structures%20Midterm%20Summary.pdf" target="_blank">Midterm Summary</a></h3>  
+<h3><a href="https://mohamad-kassas.github.io/Summaries/CSI%202101%20Discrete%20Structures/Discrete%20Structures%20Midterm%20Summary.pdf" target="_blank">Midterm Summary</a></h3>
+
+<details>
+<summary> <h3>Mini-Test Summaries </h3> </summary>
+<ul>
+<li> <h5><a href="https://mohamad-kassas.github.io/Summaries/MAT%202101%20Discrete%20Structure/Mini%Tests/Summary%20Mini%20Test%205.pdf" target="_blank">Mini Test 5 Summary</a></h5> </li>
+</ul>
+</details>
 </details>
